@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\padipu\Non_ML_Codes\Acclerometer_intergration\Acclerometer_intergration\Source.cpp(11,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\padipu\Non_ML_Codes\Acclerometer_intergration\Acclerometer_intergration\Source.cpp(67,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Acclerometer_intergration.vcxproj -> D:\padipu\Non_ML_Codes\Acclerometer_intergration\x64\Debug\Acclerometer_intergration.exe
